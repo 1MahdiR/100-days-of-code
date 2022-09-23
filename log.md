@@ -14,3 +14,10 @@
 
 **Thoughts:** Today I finished the Random quote machine project. It was a good start, but like I said yesterday the CSS part was a struggle.
 
+### Day 3: Sep 23, 2022
+
+**Today's Progress**: Started '25+5 Clock' project
+
+**Thoughts:** I started another project from 'Front End Development Libraries Projects' in free-code-camp website. It's a 25+5 clock (Pomodoro timer). I had some struggles with js but it was no big deal. The other parts (such as CSS and ...) are quite easy. I think tommorrow I can finish this project.
+
+**Link to work:** [Build a 25 + 5 Clock](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
