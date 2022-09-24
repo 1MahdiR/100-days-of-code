@@ -21,3 +21,10 @@
 **Thoughts:** I started another project from 'Front End Development Libraries Projects' in free-code-camp website. It's a 25+5 clock (Pomodoro timer). I had some struggles with js but it was no big deal. The other parts (such as CSS and ...) are quite easy. I think tommorrow I can finish this project.
 
 **Link to work:** [Build a 25 + 5 Clock](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
+
+### Day 4: Sep 24, 2022
+
+**Today's Progress**: Finished '25+5 Clock' project
+
+**Thoughts:** I finished '25+5 Clock' project. Overall it was an easy challenge. and there is a lot you can add to make it a bit more challenging.
+
