@@ -28,3 +28,12 @@
 
 **Thoughts:** I finished '25+5 Clock' project. Overall it was an easy challenge. and there is a lot you can add to make it a bit more challenging.
 
+### Day 5: Sep 25, 2022
+
+**Today's Progress**: Started a 'job filter' app
+
+**Thoughts:** I found this project (links below) on the web. So far it looks something like this:
+![Screenshot_day-5](images/Screenshot_day-5.png)<br />
+
+**Link to work:** [Static job filter](https://github.com/rammyblog/static-job-filter)
+
