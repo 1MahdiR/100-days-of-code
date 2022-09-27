@@ -37,3 +37,9 @@
 
 **Link to work:** [Static job filter](https://github.com/rammyblog/static-job-filter)
 
+### Day 6: Sep 26, 2022
+
+**Today's Progress**: Completed 'filter box UI'
+
+**Thoughts:** As always I had struggles with UI and styling with CSS. But I managed to come up with something simple and easy-to-use.
+
