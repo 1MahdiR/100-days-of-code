@@ -43,3 +43,9 @@
 
 **Thoughts:** As always I had struggles with UI and styling with CSS. But I managed to come up with something simple and easy-to-use.
 
+### Day 7: Sep 27, 2022
+
+**Today's Progress**: Completed 'filter box' handlers
+
+**Thoughts:** Today I wrote handlers for filter-box inputs. Filter-box is finished and tomorrow I'll work on job-list-box.
+
