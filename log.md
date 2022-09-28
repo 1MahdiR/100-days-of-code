@@ -49,3 +49,8 @@
 
 **Thoughts:** Today I wrote handlers for filter-box inputs. Filter-box is finished and tomorrow I'll work on job-list-box.
 
+### Day 8: Sep 28, 2022
+
+**Today's Progress**: Completed 'job-list box UI'
+
+**Thoughts:** As usual... some struggles with CSS. I hope that I can finish this project by tomorrow.
