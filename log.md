@@ -54,3 +54,9 @@
 **Today's Progress**: Completed 'job-list box UI'
 
 **Thoughts:** As usual... some struggles with CSS. I hope that I can finish this project by tomorrow.
+
+### Day 9: Sep 29, 2022
+
+**Today's Progress**: Completed 'job-list rendering based on filter'
+
+**Thoughts:** I finished the 'job filter app' project. The implemention of filtering the data was a bit confusing but finally I did it and finished the project.
