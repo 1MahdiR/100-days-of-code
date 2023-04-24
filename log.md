@@ -60,3 +60,11 @@
 **Today's Progress**: Completed 'job-list rendering based on filter'
 
 **Thoughts:** I finished the 'job filter app' project. The implemention of filtering the data was a bit confusing but finally I did it and finished the project.
+
+### Day 10: Apr 24, 2023
+
+**Today's Progress**: Created a new project, 'calculator'
+
+**Thoughts:** After a very long time (about 7 months) I decided to continue the challenge. I know that the rules of the challenge says that I probably have to start the challenge from day 1 but I don't like to leave what I have already started :) So, today I started a new react project. A simple calculator. So far I tried to create a good looking interface for it. The UI still needs some work.
+
+**Line to work:** Here's what I'm trying to make: [calculator](https://ahfarmer.github.io/calculator/)
