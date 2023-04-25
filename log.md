@@ -68,3 +68,12 @@
 **Thoughts:** After a very long time (about 7 months) I decided to continue the challenge. I know that the rules of the challenge says that I probably have to start the challenge from day 1 but I don't like to leave what I have already started :) So, today I started a new react project. A simple calculator. So far I tried to create a good looking interface for it. The UI still needs some work.
 
 **Line to work:** Here's what I'm trying to make: [calculator](https://ahfarmer.github.io/calculator/)
+
+### Day 11: Apr 25, 2023
+
+**Today's Progress**: Working on 'calculator' UI
+
+**Thoughts:** Today I continued my work on UI. I also tried adding functionalities to buttons.
+![Screenshot_day-11](images/Screenshot_day-11.png)<br />
+
+
