@@ -76,4 +76,9 @@
 **Thoughts:** Today I continued my work on UI. I also tried adding functionalities to buttons.
 ![Screenshot_day-11](images/Screenshot_day-11.png)<br />
 
+### Day 12: Apr 26, 2023
+
+**Today's Progress**: Working on first operand
+
+**Thoughts:** Wrote the code on how to take the first operand from user
 
