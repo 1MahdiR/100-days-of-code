@@ -82,3 +82,9 @@
 
 **Thoughts:** Wrote the code on how to take the first operand from user
 
+### Day 13: Apr 28, 2023
+
+**Today's Progress**: Continuing code logic
+
+**Thoughts:** Finished basic operators. Just need to clean the code a bit and finish the rest of the operators.
+
