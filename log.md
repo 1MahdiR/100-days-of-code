@@ -88,3 +88,9 @@
 
 **Thoughts:** Finished basic operators. Just need to clean the code a bit and finish the rest of the operators.
 
+### Day 14: Apr 29, 2023
+
+**Today's Progress**: Finished the project
+
+**Thoughts:** I finished the project today. But the code got messy and I wasn't able to write it based on React principles (like avoiding changing the state directly). Anyway, here's the final result: [https://1mahdir.github.io/React-Calculator/](https://1mahdir.github.io/React-Calculator/)
+
